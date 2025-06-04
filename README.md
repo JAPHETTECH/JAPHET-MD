@@ -11,7 +11,7 @@
 
 -----------
 
-### <br>  ❖ DARK-SILENCE-MD ❖
+### <br>  ❖ JAPHET-MD❖
 **`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY JAPHET-MD 🩶`**
 
 ```
@@ -31,7 +31,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
   <a href="https://github.com/DARKSILENCE04/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKSILENCE04/DARK-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKSILENCE04/DARK-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKSILENCE04/DARK-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/JAPHETTECH/JAPHET-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-JAPHETTECH-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
@@ -41,7 +41,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 ---------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+JAPHET-MD;IS+THE+UPDATE+VERSION;OF+SILENT-SOBX-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+JAPHETTECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+JAPHET-MD;IS+THE+UPDATE+VERSION;OF+JAPHET-MD V1;BEST+MULTI+DEVICE+BOT;CREATED+BY+JAPHETTECH" alt="Typing SVG" /></a>
   </p>
   
 
@@ -62,7 +62,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 **`FORK 🍴 AND STAR ⭐ JAPHET-MD`**
 
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-JAPHET%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### <br>02.  ❖ GET SESSION-I'D ❖
 
@@ -195,7 +195,7 @@ jobs:
 
 - **WARNING:** DARK-SILENCE-MD IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
 - MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING DARK-SILENCE-MD ❤️.
+- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING JAPHET-MD❤️.
 
 ---
 
@@ -211,7 +211,7 @@ jobs:
  
  ---
 
-<h3 align="center"> DON'T USE DARK-SILENCE-MD SCRIPT WITHOUT PERMISSION OF © SILENT LOVER⁴³²
+<h3 align="center"> DON'T USE JAPHET-MD SCRIPT WITHOUT PERMISSION OF © JAPHETTECH 
 </h3>
 
 <br>
