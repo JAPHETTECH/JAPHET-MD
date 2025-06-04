@@ -12,19 +12,19 @@
 -----------
 
 ### <br>  ❖ DARK-SILENCE-MD ❖
-**`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY DARK-SILENCE-MD 🩶`**
+**`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY JAPHET-MD 🩶`**
 
 ```
 https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ```
 ---
 
-> **DARK-SILENCE-MD VERSION ➜ `3.0.1 ♻️`**
+> **JAPHET-MD VERSION ➜ `3.0.1 ♻️`**
 ---
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=DARK-SILENCE-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SILENTLOVER432;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JAPHETTECH;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+JAPHETTECH;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
@@ -32,16 +32,16 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKSILENCE04/DARK-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKSILENCE04/DARK-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKSILENCE04/DARK-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-SILENTLOVER-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-JAPHETTECH-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DARK-SILENCE-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=JAPHET-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 ---------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+DARK-SILENCE-MD;IS+THE+UPDATE+VERSION;OF+SILENT-SOBX-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+SILENTLOVER+432" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+JAPHET-MD;IS+THE+UPDATE+VERSION;OF+SILENT-SOBX-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+JAPHETTECH" alt="Typing SVG" /></a>
   </p>
   
 
@@ -56,17 +56,17 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 ----------
 
-### <br>01.  ❖ FORK DARK-SILENCE-MD ❖
+### <br>01.  ❖ FORK JAPHET-MD ❖
 
 -----------
 
-**`FORK 🍴 AND STAR ⭐ DARK-SILENCE-MD`**
+**`FORK 🍴 AND STAR ⭐ JAPHET-MD`**
 
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### <br>02.  ❖ GET SESSION-I'D ❖
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92309xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:255613xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 
 > **1. PAIR CODE SESSION ID**
@@ -93,7 +93,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 ---
 
-### <h2 align="">❖ DARK-SILENCE-MD DEPLOYMENT OPTIONS ❖</h2>
+### <h2 align="">❖ JAPHET-DEPLOYMENT OPTIONS ❖</h2>
 
 ---
 
@@ -133,7 +133,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 -------------
 
-**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF DARK-SILENCE-MD ✠***
+**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF JAPHET-MD ✠***
 
 ```
 name: Node.js CI
@@ -175,18 +175,15 @@ jobs:
 
 
 ## 👑 ✠ PROJECT OWNER ✠
-`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ♡SILENT LOVER⁴³²࿐➺`
+`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ♡JAPHETTECH`
 
 <p align="">
-<a href='https://wa.me/+923096287432?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+DARK-SILENCE+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923096287432?text=*HII+SIR+I+NEED+HELP!.+IM+MSG+YOU+FROM+JAPHET+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## ⚖️ ✠ SUPPORT CHANNEL ✠
 `✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF DARK-SILENCE-MD BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
-
-
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s)
 
 ---------
 
